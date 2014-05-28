@@ -19,6 +19,9 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
+# Edited by Meng for bulk downloading all apod pictures at NASA archive.
+# 2014/5/28
+
 
 # ********************************
 # *** OPTIONS
