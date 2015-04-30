@@ -30,7 +30,9 @@ PICTURES_DIR=~/apod_archive_downloader
 # Set this to the directory you want description saved
 DESCRIPTION_DIR=~/apod_archive_downloader
 # Get CPU core number
-ncpu=$(nproc)
+ncpu=$(nproc) # Linux
+#ncpu=$(sysctl hw.ncpu | awk '{print $2}') # for mac
+
 # ********************************
 # *** FUNCTIONS
 # ********************************
